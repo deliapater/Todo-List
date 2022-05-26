@@ -1,7 +1,7 @@
 # Todo-List
 
 ## Screen Grabs
-![Main](./public/images/Main.png)
+![todo-list](./public/images/todo-list.png)
 
 # Getting Started with Create React App
 
